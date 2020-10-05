@@ -12,17 +12,17 @@ We are really excited today to open our Github to the world! After months of res
 
 We are sharing a classification code that we use internally to benchmark our engine on several datasets.
 
-This training script has also been shared to our clients to smooth the first time use of our product and  simplify the creation of state of the Art neural networks.
+This training script has also been shared to our clients to smooth the first time use of our product and  simplify the creation of state-of-the-art neural networks.
 
 We hope it will bring value to you as well!
 
 Here you will find how to convert your dataset to TFRecord format, load them with an efficient data pipeline with various data augmentation strategies and classic deep learning models.
 
-We are also working on an integration of Keras-Tuner for metaparameter search and Differential architectures search method for auto-ml experiments.
+We are also working on an integration of Keras-Tuner for metaparameter search and differential architectures search method for auto-ml experiments.
 
 We will explain here how to use it with and without Upstride API. 
 
-Feel free to reach out to us at hello@upstride.io if you're interested in trying this script powered by Upstride technology 🚀
+If you're interested in trying this script powered by Upstride technology 🚀 feel free to reach out to us at hello@upstride.io
 
 
 ## How do I get set up?
@@ -44,6 +44,8 @@ The tensorflow docker image will soon be on dockerhub.
 
 
 
+
+
 See the 🎓 [Documentation](documentation/doc.md)
 
 or
@@ -56,7 +58,7 @@ Get started with [cat vs dog classification example](documentation/cat_dog.ipynb
 
 ## Would you like to contribute?
 
-If you discovered a bug or have any idea please raise an issue. If you wish to contribute, pull requests are also welcome. 
+If you discovered a bug or have any idea please raise an issue. If you wish to contribute, pull requests are welcome. 
 
 We will try to review them as fast as possible to integrate your work in a timely manner. 
 
