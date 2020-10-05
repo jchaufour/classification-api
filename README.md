@@ -18,7 +18,7 @@ We hope it will bring value to you as well!
 
 Here you will find how to convert your dataset to TFRecord format, load them with an efficient data pipeline with various data augmentation strategies and classic deep learning models.
 
-We are also working on an integration of Keras-Tuner for metaparameter search and Differential architectures search method for auto-ml experiments.
+We are also working on an integration of Keras-Tuner for metaparameter search and differential architectures search method for auto-ml experiments.
 
 We will explain here how to use it with and without Upstride API. 
 
@@ -56,7 +56,7 @@ Get started with [cat vs dog classification example](documentation/cat_dog.ipynb
 
 ## Would you like to contribute?
 
-If you discovered a bug or have any idea please raise an issue. If you wish to contribute, pull requests are also welcome. 
+If you discovered a bug or have any idea please raise an issue. If you wish to contribute, pull requests are welcome. 
 
 We will try to review them as fast as possible to integrate your work in a timely manner. 
 
